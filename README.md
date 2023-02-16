@@ -1,4 +1,4 @@
-[![Header](https://github.com/andreykolod/andreykolod/blob/main/assets/2560x1600_653978_%5Bwww.ArtFile.ru%5D.jpg)]
+[![Header](https://github.com/andreykolod/andreykolod/blob/main/assets/%D0%91%D0%B5%D0%B7%D1%8B%D0%BC%D1%8F%D0%BD%D0%BD%D1%8B%D0%B9.png)]
 
 About me
 
