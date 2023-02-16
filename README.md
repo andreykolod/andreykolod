@@ -16,4 +16,6 @@
 ![Web Mobile API testing](https://img.shields.io/badge/-Web_Mobile_API_тестирование-919191?style=for-the-badge&logo=agile&logoColor=033e96)
 
 
-Follow Me
+## Follow Me
+[![Wapp](https://img.shields.io/badge/-Whats_app-00a884?style=for-the-badge&logo=whatsapp&logoColor=fff)](https://wa.me/79253494756)
+[![Tlg](https://img.shields.io/badge/-Telegram-64b5ef?style=for-the-badge&logo=telegram&logoColor=fff)](https://t.me/andrey_kolod)
