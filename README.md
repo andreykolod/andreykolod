@@ -1,6 +1,7 @@
 ![Header](https://github.com/andreykolod/andreykolod/blob/main/assets/%D0%91%D0%B5%D0%B7%D1%8B%D0%BC%D1%8F%D0%BD%D0%BD%D1%8B%D0%B9%20(1).png)
 
 ##   Я люблю: бегать, играть в PS, велосипедные прогулки, изучать английский язык и проводить время с семьей. Очень увлечен тестированием. Сейчас тестирую тренировочные и социальные проекты и осваиваю новые инструменты необходимые для тестировщика. Хочу принимать участие в создании качественного продукта, поэтому я ставлю цель развиваться в тестировании и стать экспертом.
+[![Video](https://img.shields.io/badge/-👆_watch_Video_about_me_👆-fa1e1e?style=for-the-badge&logo=video&logoColor=fff)](https://drive.google.com/file/d/1p0Yn4Yn-gAoUnT-VYqH8tuOTNVloIhgw/view)
 
 ## Hard skills and Tools
 ![CharlesProxy](https://img.shields.io/badge/-Charles_Proxy-6fb8fc?style=for-the-badge&logo=C&logoColor=033e96)
@@ -16,6 +17,7 @@
 ![Web Mobile API testing](https://img.shields.io/badge/-Web_Mobile_API_тестирование-919191?style=for-the-badge&logo=agile&logoColor=033e96)
 
 
-## Follow Me
+## Contacts
 [![Wapp](https://img.shields.io/badge/-Whats_app-00a884?style=for-the-badge&logo=whatsapp&logoColor=fff)](https://wa.me/79253494756)
 [![Tlg](https://img.shields.io/badge/-Telegram-64b5ef?style=for-the-badge&logo=telegram&logoColor=fff)](https://t.me/andrey_kolod)
+
