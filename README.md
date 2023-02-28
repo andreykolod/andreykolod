@@ -17,9 +17,9 @@
 ![Web Mobile API testing](https://img.shields.io/badge/-Web_Mobile_API_тестирование-4a4a4a?style=for-the-badge&logo=agile&logoColor=033e96)
 
 ## Мои работы:
-[![Диплом](https://img.shields.io/badge/-Дипломный_проект_Яндекс-fac132?style=for-the-badge&logo=диплом&logoColor=fff)](https://docs.google.com/spreadsheets/d/1kQurIk0f3h_S42oqblI-AOBktVXEGz5pnWaqdTKN1Gw/edit?usp=sharing)
+[![Диплом](https://img.shields.io/badge/-Дипломный_проект_Яндекс-fac132?style=for-the-badge&logo=диплом&logoColor=fff)](https://docs.google.com/spreadsheets/d/1z9EZ0RTjnnDmdmyrjrgtzTW5Da8yGc7crkW0QSZLoww/edit?usp=sharing)
 
-[![Kittygram](https://img.shields.io/badge/-Тренировочный_проект_Kittygram-fac132?style=for-the-badge&logo=диплом&logoColor=fff)](https://docs.google.com/spreadsheets/d/1xU9KjYlrYZ-ESTk7qNboVOeLYSy2kAjKzOjAKj7puMw/edit?usp=sharing)
+[![Kittygram](https://img.shields.io/badge/-Тренировочный_проект_Kittygram-fac132?style=for-the-badge&logo=диплом&logoColor=fff)](https://docs.google.com/document/d/1OFLdyGoDkUk8j38Rbz_MOAf0pJObCpDtzkK70lxY0tc/edit?usp=sharing)
 
 ## Contacts
 [![Wapp](https://img.shields.io/badge/-Whats_app-00a884?style=for-the-badge&logo=whatsapp&logoColor=fff)](https://wa.me/79253494756)
